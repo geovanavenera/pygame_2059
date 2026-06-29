@@ -51,13 +51,13 @@ O `.exe` será gerado na pasta `dist/`. Copie todos os arquivos `.py` para junto
 - Python 3.x
 - pygame 2.x
 
-  <div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_pygame.png" width="250"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_pygame.png" width="600"/>
 </div>
-  <div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_.png" width="250"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_.png" width="600"/>
 </div>
-  <div align="right">
-  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_GAMEOVER.png" width="250"/>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/geovanavenera/assets/main/2059_GAMEOVER.png" width="600"/>
 </div>
 
